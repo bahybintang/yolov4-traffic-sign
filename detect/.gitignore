@@ -3,3 +3,6 @@
 **/*.ipynb_checkpoints/
 **/*__pycache__
 yolov4-obj_best.weights
+/images
+predictions.jpg
+results.json
