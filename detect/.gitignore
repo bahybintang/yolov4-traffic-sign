@@ -5,4 +5,5 @@
 yolov4-obj_best.weights
 /images
 predictions.jpg
-results.json
+result.json
+images.txt
