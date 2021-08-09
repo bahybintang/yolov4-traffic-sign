@@ -1,0 +1,9 @@
+[
+{
+ "frame_id":1, 
+ "filename":"../test_images/test_5.jpg", 
+ "objects": [ 
+  {"class_id":5, "name":"Larangan Parkir", "relative_coordinates":{"center_x":0.163579, "center_y":0.211202, "width":0.300635, "height":0.439997}, "confidence":0.893267}
+ ] 
+}
+]
